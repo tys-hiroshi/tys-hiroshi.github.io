@@ -16,7 +16,7 @@ This will run Swagger Editor (in detached mode) on port 1000 on your machine, so
 
 ## swagger-viewer
 
-### how to generate swagger documents
+### how to generate swagger documents(html file)
 
 #### run visual studio code
 
