@@ -2,5 +2,6 @@
 
 ## JOB
 
-Private Repository
+### Private
+
 https://github.com/tys-hiroshi/jobs/projects/3
