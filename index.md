@@ -10,4 +10,4 @@ Github
 
 ### Private
 
-https://github.com/tys-hiroshi/jobs/projects/3
+[projects/jobs](https://github.com/tys-hiroshi/jobs/projects/3)
