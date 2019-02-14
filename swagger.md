@@ -18,16 +18,16 @@ This will run Swagger Editor (in detached mode) on port 1000 on your machine, so
 
 ### how to generate swagger documents(html file)
 
-#### run visual studio code
+#### Run Visual Studio Code
 
-##### install Extension
+##### Install Extension
 
 - Swagger viewer
 - swagger-doc-viewer
 - swaggitor
 
 
-#### open terminal
+#### Open Terminal
 
 ```
 npm install -g bootprint
