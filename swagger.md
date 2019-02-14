@@ -72,5 +72,6 @@ build.bat
 ```
 
 
-#### Help
+#### View Help
+
 java -jar swagger-codegen-cli-2.4.1.jar config-help -l csharp
