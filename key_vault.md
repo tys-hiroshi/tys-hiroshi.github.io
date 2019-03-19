@@ -1,5 +1,4 @@
 Key Vaultを登録
-https://portal.azure.com/#@toyokoazuregmail.onmicrosoft.com/resource/subscriptions/0babef06-13e8-45ef-800d-d14a9fa07a1c/resourceGroups/kazokunokiroku/providers/Microsoft.KeyVault/vaults/KazokuKeyVault/access_policies
 
 アクセスポリシーにアプリ(StorageAPIv1)を新規追加する。
 
