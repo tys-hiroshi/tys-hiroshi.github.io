@@ -11,3 +11,5 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ApplicationBlade/appId/6f99efe
 
 キーが使えなくなったら、Key Vaultのアクセスポリシーからアプリを削除してもう一度追加する。
 ※本当にできるかわからない
+
+ADからアプリを消してキーを追加、KeyVaultのアクセスポリシーからアプリを削除、もう一度追加(Subscriptionの)
