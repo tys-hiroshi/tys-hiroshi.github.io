@@ -2,7 +2,7 @@
 
 ## Wiki
 
-[swagger]https://github.com/tys-hiroshi/tys-hiroshi.github.io/blob/master/swagger.md
+[swagger](https://github.com/tys-hiroshi/tys-hiroshi.github.io/blob/master/swagger.md)
 
 ## Repository
 
