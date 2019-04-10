@@ -2,7 +2,7 @@
 
 ### DataTime.Now がUTCになっているとき
 
-ホーム > 【App Service】 - アプリケーション設定 (クラシック) 
+ホーム > 【App Service】 - 構成
 
 のアプリケーション設定 でWEBSITE_TIME_ZONE : Tokyo Standard Time とすることでDataTime.NowがJSTになる。
 
