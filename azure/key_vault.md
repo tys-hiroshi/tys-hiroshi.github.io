@@ -1,15 +1,10 @@
 Key Vaultを登録
 
-アクセスポリシーにアプリ(StorageAPIv1)を新規追加する。
-
-Azure AD からアプリを登録する
+1. Azure AD からアプリを登録する
 https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
+2. 登録したアプリでキーを登録する (例：ホーム > 東横開発用 - アプリの登録 > StorageAPIv1 > 設定 > キー)
+3. Key Vaultを登録する
+https://portal.azure.com/#@toyokoazuregmail.onmicrosoft.com/resource/subscriptions/0babef06-13e8-45ef-800d-d14a9fa07a1c/resourceGroups/kazokunokiroku/providers/Microsoft.KeyVault/vaults/KazokuKeyVault/access_policies
 
-設定＞キー からキーを登録する
-https://portal.azure.com/#blade/Microsoft_AAD_IAM/ApplicationBlade/appId/6f99efeb-4b1f-4709-b9bf-c7ac0115e8d2/objectId/f73fee63-a767-4d6c-b5ef-c28c656a4e7c
-
-
-キーが使えなくなったら、Key Vaultのアクセスポリシーからアプリを削除してもう一度追加する。
-※本当にできるかわからない
-
-ADからアプリを消してキーを追加、KeyVaultのアクセスポリシーからアプリを削除、もう一度追加(Subscriptionの)
+4. アクセスポリシーにAzure ADで登録したアプリを新規追加する。
+※subscription なんとかって書いてない方
