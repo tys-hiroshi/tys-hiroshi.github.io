@@ -7,3 +7,9 @@ $  echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.profile
 $  source ~/.profile
 $  npm completion >> ~/.bashrc
 ```
+
+## package uninstall
+
+```
+npm uninstall openzeppelin-solidity
+```
