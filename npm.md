@@ -19,3 +19,13 @@ npm uninstall openzeppelin-solidity
 ```
 npm install -g npm-check-updates
 ```
+
+## 
+
+sudo: n: command not found
+
+which n
+
+/home/th4/.npm-global/bin/n
+
+sudo /home/th4/.npm-global/bin/n stable
