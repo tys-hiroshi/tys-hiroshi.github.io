@@ -13,3 +13,9 @@ $  npm completion >> ~/.bashrc
 ```
 npm uninstall openzeppelin-solidity
 ```
+
+## update packages
+
+```
+npm install -g npm-check-updates
+```
