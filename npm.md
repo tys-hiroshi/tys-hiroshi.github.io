@@ -20,7 +20,7 @@ npm uninstall openzeppelin-solidity
 npm install -g npm-check-updates
 ```
 
-## 
+## stable な node.jsを
 
 ```
 npm install -g n
