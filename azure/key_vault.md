@@ -8,3 +8,6 @@ https://portal.azure.com/#@toyokoazuregmail.onmicrosoft.com/resource/subscriptio
 
 4. アクセスポリシーにAzure ADで登録したアプリを新規追加する。
 ※subscription なんとかって書いてない方
+
+
+https://gist.github.com/inosuke/6185003c2de804bc5075703ee1066ad8
