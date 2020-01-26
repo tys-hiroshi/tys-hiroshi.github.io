@@ -24,3 +24,10 @@ Embark’s goal is to make building decentralized applications as easy as possib
 ipfs
 
 https://docs.ipfs.io/guides/guides/install/
+
+
+https://qiita.com/amachino/items/605ff76209d7193dc92c
+https://qiita.com/yukatou/items/05652ba149266f81d4fe
+https://noumenon-th.net/programming/smartcontract/
+
+https://solidity.readthedocs.io/en/develop/solidity-by-example.html
