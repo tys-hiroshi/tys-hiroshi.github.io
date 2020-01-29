@@ -34,3 +34,10 @@ $ sudo add-apt-repository -y ppa:ethereum/ethereum
 
 $ sudo apt-get update
 $ sudo apt-get install ethereum-swarm
+$ swarm version
+Swarm
+Version: 0.4.3-stable
+Git Commit: 66e016c6dc71abadf4a18ecf8688cf66079f6212
+Go Version: go1.11.5
+OS: linux
+
