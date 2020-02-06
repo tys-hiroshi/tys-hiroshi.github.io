@@ -10,4 +10,4 @@
 1. プロジェクトのプロパティを開く
 2. アプリーケーション のターゲット フレームワークのVersionを変更する
 3. Web.configのhttpruntime targetframeworkを2のVersionに変更する
-4. packages.config があるなら、Update-Package -Reinstall とする。
+4. packages.config があるなら、パッケージマネージャー コンソールでUpdate-Package -Reinstall とする。
