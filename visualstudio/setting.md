@@ -8,7 +8,7 @@
 ## Visual Studio で.NET Framework のVersionを変更するとき
 
 1. プロジェクトのプロパティを開く
-2. アプリーケーション のターゲット フレームワークのVersionを変更する
+2. アプリケーション のターゲット フレームワークのVersionを変更する
 3. Web.configのhttpruntime targetframeworkを2のVersionに変更する
 4. packages.config があるなら、パッケージマネージャー コンソールでUpdate-Package -Reinstall とする。
 
