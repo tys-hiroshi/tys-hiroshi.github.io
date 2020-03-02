@@ -1,3 +1,4 @@
+```
 upload_b
 ↓
 b_send_from_file(self, file, media_type=None, encoding=None, file_name=None)
@@ -20,3 +21,4 @@ create_p2pkh_transaction(private_key, unspents, outputs, custom_pushdata=False)
 
 
 2.send_rawtx
+```
