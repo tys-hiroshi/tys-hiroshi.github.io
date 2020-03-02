@@ -21,8 +21,13 @@ Bitcoin sv testnet address:
 
 https://faucet.bitcoincloud.net/
 
+https://test.whatsonchain.com/
+
 address:
 
 ```
 mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
 ```
+
+https://test.whatsonchain.com/address/mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
+
