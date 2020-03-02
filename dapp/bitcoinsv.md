@@ -17,5 +17,12 @@ https://blockchair.com/bitcoin-sv/address/アドレス
 MatterCloudさんいままでありがとう
 ```
 
-mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
+Bitcoin sv testnet address:
 
+https://faucet.bitcoincloud.net/
+
+address:
+
+```
+mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
+```
