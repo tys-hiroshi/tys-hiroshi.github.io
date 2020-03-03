@@ -26,7 +26,7 @@ VscodeのSettings.jsonを修正する。
 
 File -> Preference -> Settings
 
-Userのタブで settings.json と検索して、JOSN内に以下を入力する。
+Userのタブで settings.json と検索して、J内に以下を入力する。
 
 ```
 {
