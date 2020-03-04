@@ -11,3 +11,10 @@
 
 alias emacs='emacs -nw' 
 source ~/.bashrc
+
+## Default to python3
+
+```
+alias python='/usr/bin/python3'
+```
+
