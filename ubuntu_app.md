@@ -22,7 +22,7 @@ alias python='/usr/bin/python3'
 
 aliasは専用の設定ファイルが用意されている
 
-.bash_aliases
+create .bash_aliases
 
 ```
 alias cat='cat -n'
