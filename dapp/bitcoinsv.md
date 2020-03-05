@@ -31,3 +31,44 @@ mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
 
 https://test.whatsonchain.com/address/mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
 
+
+generate privatekey from mnemonic
+no python module (bip39)
+
+but exist bip32 module
+
+https://github.com/AustEcon/bsvbip32/
+
+```
+var Mnemonic = require('bsv-mnemonic');
+var code = new Mnemonic(bsv_mnemonic);
+
+var xpriv1 = code.toHDPrivateKey("", network='testnet'); // no passphrase
+//var xpriv2 = code.toHDPrivateKey('my passphrase'); // using a passphrase
+
+console.log(xpriv1)
+console.log(xpriv1.privateKey)
+privatekey_wif = xpriv1.privateKey.toWIF()
+```
+
+
+bsv-mnemonic
+
+```
+
+var xpriv1 = code.toHDPrivateKey("", network='testnet');
+
+|
+
+Mnemonic.prototype.toHDPrivateKey = function(passphrase, network) {
+  var seed = this.toSeed(passphrase);
+  return bitcore.HDPrivateKey.fromSeed(seed, network);
+};
+
+bsv - hdprivatekey.js
+
+HDPrivateKey.fromSeed = function (hexa, network) {
+
+|
+
+```
