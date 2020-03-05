@@ -33,9 +33,10 @@ https://test.whatsonchain.com/address/mnoTQaiqDBjUG6WWAUwhFycirbrKYUMgmU
 
 
 generate privatekey from mnemonic
-no python module (bip39)
 
-but exist bip32 module
+https://github.com/trezor/python-mnemonic/
+
+exist bip32 module
 
 https://github.com/AustEcon/bsvbip32/
 
