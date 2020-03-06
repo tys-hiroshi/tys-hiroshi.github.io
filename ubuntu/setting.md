@@ -4,8 +4,11 @@
 
 
 1.windows features
+
 2.windows network sharing setting
+
 3.windows folder share
+
 4.ubuntu below commend
 
 ```
