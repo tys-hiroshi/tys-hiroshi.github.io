@@ -35,6 +35,15 @@ npm install -g bootprint-openapi
 bootprint openapi [yaml file path] [output path]
 ```
 
+## openapi3用のViewer
+
+https://github.com/Redocly/redoc
+
+```
+npm install -g redoc-cli
+redoc-cli bundle [openapi3 yaml or json]
+```
+
 ## swagger-codegen
 
 ### YAMLからSwaggerCodegen によって、コードを生成する方法
