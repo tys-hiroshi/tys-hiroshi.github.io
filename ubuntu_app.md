@@ -30,3 +30,7 @@ alias pip='/usr/bin/pip3'
 ```
 source ~/.bashrc
 ```
+
+
+http://chie8842.hatenablog.com/entry/2017/03/23/152615
+
