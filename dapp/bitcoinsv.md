@@ -83,3 +83,7 @@ https://bitcoin.stackexchange.com/questions/55383/how-to-convert-a-wif-private-k
 https://github.com/AustEcon/bsvbip32
 https://github.com/bitcoin/bips/blob/8677fd57864430becd4e828f3ce625922c91b4fd/bip-0032.mediawiki
 
+## bitsv でUploadは bcat.bico.media をつかっているのでこの仕様を
+
+http://bcat.bico.media/
+https://github.com/bico-media/bcat
