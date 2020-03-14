@@ -22,3 +22,8 @@ sudo mount.cifs //[PC name or IP]/[Folder name] /mnt/windows -o username=[window
 sudo dpkg -i [deb file]
 sudo apt -f install
 ```
+### dpkg uninstall
+
+```
+sudo dpkg -r [app name]
+```
