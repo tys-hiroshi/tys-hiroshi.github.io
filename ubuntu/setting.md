@@ -8,7 +8,7 @@
 sudo apt update
 sudo apt-get install soundconverter
 sudo apt install -y ubuntu-restricted-extras
-sudo apt-get install libav-tools ffmpeg
+sudo apt-get install ffmpeg
 ```
 
 
