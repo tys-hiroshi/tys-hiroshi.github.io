@@ -27,3 +27,11 @@ sudo apt -f install
 ```
 sudo dpkg -r [app name]
 ```
+
+# app
+
+```
+sudo apt update
+sudo apt-get install soundconverter
+sudo apt install -y ubuntu-restricted-extras
+```
