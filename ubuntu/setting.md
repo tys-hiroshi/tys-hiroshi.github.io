@@ -1,5 +1,17 @@
 # Ubuntu setting
 
+
+
+# app
+
+```
+sudo apt update
+sudo apt-get install soundconverter
+sudo apt install -y ubuntu-restricted-extras
+sudo apt-get install libav-tools ffmpeg
+```
+
+
 ## mount windows share folder
 
 
@@ -26,12 +38,4 @@ sudo apt -f install
 
 ```
 sudo dpkg -r [app name]
-```
-
-# app
-
-```
-sudo apt update
-sudo apt-get install soundconverter
-sudo apt install -y ubuntu-restricted-extras
 ```
