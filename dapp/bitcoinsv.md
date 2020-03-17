@@ -82,7 +82,9 @@ https://en.bitcoin.it/wiki/List_of_address_prefixes
 https://bitcoin.stackexchange.com/questions/55383/how-to-convert-a-wif-private-key-to-a-bip32-extended-private-key
 https://github.com/AustEcon/bsvbip32
 https://github.com/bitcoin/bips/blob/8677fd57864430becd4e828f3ce625922c91b4fd/bip-0032.mediawiki
+
 https://bitcoin.stackexchange.com/questions/76655/how-to-generate-public-and-private-key-pairs-from-the-12-seed-words-in-python
+https://github.com/lyndsysimon/bip32utils
 
 
 ## bitsv でUploadは bcat.bico.media をつかっているのでこの仕様を
