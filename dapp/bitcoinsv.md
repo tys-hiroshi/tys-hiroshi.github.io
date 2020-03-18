@@ -99,3 +99,12 @@ https://github.com/lyndsysimon/bip32utils
 http://bcat.bico.media/
 https://github.com/bico-media/bcat
 
+
+
+wif_for_blob
+
+https://github.com/richardkiss/pycoin/blob/de89fa4ffb5b7eb518c9ab2859c9d767f6b3e31d/pycoin/symbols/grs.py
+
+b2a_base58
+
+https://github.com/richardkiss/pycoin/blob/de89fa4ffb5b7eb518c9ab2859c9d767f6b3e31d/pycoin/encoding/b58.py
