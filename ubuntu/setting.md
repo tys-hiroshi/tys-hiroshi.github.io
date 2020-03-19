@@ -24,13 +24,14 @@ sudo apt install clipit
 
 https://github.com/CristianHenzel/ClipIt
 
+```
 Action	Key combination
 History	Ctrl + Alt + h
 Actions	Ctrl + Alt + a
 Menu	Ctrl + Alt + p
 Search	Ctrl + Alt + f
 Offline mode	Ctrl + Alt + o
-
+```
 
 ## static item
 
