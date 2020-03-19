@@ -4,12 +4,44 @@
 
 # app
 
+## play mp4
+
 ```
 sudo apt update
 sudo apt-get install soundconverter
 sudo apt install -y ubuntu-restricted-extras
 sudo apt-get install ffmpeg
 ```
+
+## 自動起動
+
+gnome-session
+
+
+## ClipIt
+
+sudo apt install clipit
+
+https://github.com/CristianHenzel/ClipIt
+
+Action	Key combination
+History	Ctrl + Alt + h
+Actions	Ctrl + Alt + a
+Menu	Ctrl + Alt + p
+Search	Ctrl + Alt + f
+Offline mode	Ctrl + Alt + o
+
+
+## static item
+
+ref. https://askubuntu.com/questions/876078/how-to-create-static-items-in-clipit
+
+> Right click the Clipit icon in the toolbar and select Manage History. A pop-up will appear titled Manage History.
+> 
+> Then choose the copied item from the list in the pop-up that you want to make static and click the Edit button at the bottom. Another pop-up will appear titled Editing Clipboard.
+> 
+> At the bottom left there will be a check box to make the item static, then click the OK button and that's it.
+
 
 
 ## mount windows share folder
