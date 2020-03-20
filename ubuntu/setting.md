@@ -13,6 +13,18 @@ sudo apt install -y ubuntu-restricted-extras
 sudo apt-get install ffmpeg
 ```
 
+## git 
+
+https://qiita.com/cyborg__ninja/items/6efd349370bf5f8bffb2
+
+2段階認証
+
+https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
+
+## add favorite custom app
+
+https://askubuntu.com/questions/1026528/adding-custom-programs-to-favourites-of-ubuntu-dock
+
 ## 自動起動
 
 gnome-session
