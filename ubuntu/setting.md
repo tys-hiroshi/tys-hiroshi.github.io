@@ -45,6 +45,15 @@ ref. https://askubuntu.com/questions/876078/how-to-create-static-items-in-clipit
 
 
 
+## Browser
+
+- chrome
+- firefox
+- brave
+
+https://brave-browser.readthedocs.io/en/latest/installing-brave.html#linux
+
+
 ## mount windows share folder
 
 
