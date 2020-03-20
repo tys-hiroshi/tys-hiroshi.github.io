@@ -25,10 +25,37 @@ https://help.github.com/en/github/authenticating-to-github/creating-a-personal-a
 
 https://askubuntu.com/questions/1026528/adding-custom-programs-to-favourites-of-ubuntu-dock
 
+~/.local/share/applications に登録したいAppについて以下のファイルで保存する。
+
+[appname].desktop
+
+```
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=SmartGit
+Comment=SmartGit
+Exec=[app path]
+Icon=[app icon path]
+Terminal=false
+```
+
+```
+chmod 773 [appname].desktop
+cp [appname].desktop ~/Desktop
+```
+
+デスクトップにコピーされたファイルを実行して、Add Favoriteにする。
+
+
+http://91stardust-atelier.hatenablog.com/entry/2016/11/17/015854
+
+
 ## 自動起動
 
+```
 gnome-session
-
+```
 
 ## ClipIt
 
