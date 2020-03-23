@@ -108,3 +108,8 @@ https://github.com/richardkiss/pycoin/blob/de89fa4ffb5b7eb518c9ab2859c9d767f6b3e
 b2a_base58
 
 https://github.com/richardkiss/pycoin/blob/de89fa4ffb5b7eb518c9ab2859c9d767f6b3e31d/pycoin/encoding/b58.py
+
+
+## bulk transaction
+
+https://developers.whatsonchain.com/#bulk-transaction-details
