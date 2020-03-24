@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=SmartGit
+Comment=SmartGit
+Exec=/home/[username]/apps/smartgit/bin/smartgit.sh
+Icon=/home/[username]/apps/smartgit/bin/smartgit-256.png
+Terminal=false
