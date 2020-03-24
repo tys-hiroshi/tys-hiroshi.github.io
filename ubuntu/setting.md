@@ -155,3 +155,8 @@ sudo apt -f install
 ```
 sudo dpkg -r [app name]
 ```
+
+```
+sudo update-grub
+sudo reboot
+```
