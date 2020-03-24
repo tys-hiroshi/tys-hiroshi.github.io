@@ -19,3 +19,5 @@ GMO とくとくBB
 キャッシュバックには11ヶ月目の口座登録メールで口座を登録する。
 
 https://gmobb.jp/wimax/?btn_id=top_wm2_1312_brA
+
+https://internet-kyokasho.com/broad-wimax-2/
