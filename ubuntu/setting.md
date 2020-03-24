@@ -160,3 +160,5 @@ sudo dpkg -r [app name]
 sudo update-grub
 sudo reboot
 ```
+
+https://yamanxworld.blogspot.com/2015/02/windows-server-2012-r2-hyper-v-and.html
