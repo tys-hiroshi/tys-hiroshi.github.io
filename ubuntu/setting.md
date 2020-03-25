@@ -1,5 +1,15 @@
 # Ubuntu setting
 
+## VMの命名規則
+
+Ubuntu[フランス人女性名][Version]
+Versionは18.04なら1804とする。
+
+フランス人女性名
+
+https://www.kyoto-su.ac.jp/department/lf/gakushu/kyozai/prenom/prenom_table.html
+
+
 # Need Apps
 
 - clipit
