@@ -23,4 +23,7 @@ https://developer.apple.com/safari/technology-preview/release-notes/
 Edge
 https://blogs.windows.com/msedgedev/
 
+Google Trends
+
+https://trends.google.com/trends/?geo=US
 
