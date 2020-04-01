@@ -172,3 +172,14 @@ sudo reboot
 ```
 
 https://yamanxworld.blogspot.com/2015/02/windows-server-2012-r2-hyper-v-and.html
+
+
+## snap
+
+
+snap は canonical が開発している新しいパッケージシステムです。独自のファイルシステムを利用して、バイナリの動作に必要なライブラリを全てパッケージングして配布することができます。snap を利用することで、 yum や apt のような Linux ディストリビューションのパッケージシステムを利用した時に、任意のバージョンをユーザーが自由に使うことができない問題を解決しました。
+
+```
+sudo snap install ruby --classic
+```
+
