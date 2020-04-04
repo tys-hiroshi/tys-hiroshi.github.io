@@ -58,6 +58,18 @@ sudo apt install -y ubuntu-restricted-extras
 sudo apt-get install ffmpeg
 ```
 
+## convert mp4 to mp3
+
+https://qiita.com/fujisystem/items/0b3abb5cb1a5671c4d4c
+
+```
+sudo apt -y install ffmpeg ffmpeg-devel
+find . -type f -name "*.mp4" -print0 | perl -pe 's/\.mp4\0/\0/g' | xargs -0 -I% ffmpeg -i %.mp4 -acodec libmp3lame -ab 256k %.mp3
+ffmpeg -i hoge.mp4 -acodec libmp3lame -ab 256k foo.mp3
+```
+
+
+
 ## git 
 
 https://qiita.com/cyborg__ninja/items/6efd349370bf5f8bffb2
