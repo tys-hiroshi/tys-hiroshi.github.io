@@ -16,8 +16,22 @@ https://www.kyoto-su.ac.jp/department/lf/gakushu/kyozai/prenom/prenom_table.html
 - visual studio code
 - gitkraken
 - SoundConverter
-- emacs
+- bitwarden
+- smartgit
+- mpv media player
+- meld
+- firefox
+- chrome
+- rhythmbox
+- mongodb
 
+## Path
+
+.bashrc
+
+```
+export PATH="$PATH:[directory path]"
+```
 
 
 ## Default to python3
