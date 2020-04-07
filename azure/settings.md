@@ -9,3 +9,8 @@
 ### Azure 上のApp Serviceでappsettings.json を切り替えたいとき
 
 ASPNETCORE_ENVIRONMENT でDevelopment,Staging,Production にすることでappsettings.{ASPNETCORE_ENVIRONMENT}.json が切り替えられる
+
+
+## Auto-Heal
+
+Resource Explorerを開き、config にauto-heal が書いてある箇所に設定がある。
