@@ -209,3 +209,8 @@ snap は canonical が開発している新しいパッケージシステムで�
 sudo snap install ruby --classic
 ```
 
+## Virtualbox
+
+Virtual box のウィンドウリサイズに応じて自動的に仮想マシンをリサイズする - Qiita
+https://qiita.com/lion0506/items/36b9ce19724a32fbd1ac
+
