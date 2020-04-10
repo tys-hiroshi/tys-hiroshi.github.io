@@ -65,6 +65,13 @@ http://chie8842.hatenablog.com/entry/2017/03/23/152615
 
 Ctrl + L : get directory path
 
+```
+sudo apt-get install nautilus-open-terminal
+```
+
+Ctrl + D : Explorer のサイドバーにクイックアクセスを追加する。Explorerを開き、追加したフォルダ内でショートカットを押す。
+
+
 # app
 
 ## play mp4
