@@ -61,6 +61,10 @@ source ~/.bashrc
 http://chie8842.hatenablog.com/entry/2017/03/23/152615
 
 
+## shortcut key
+
+Ctrl + L : get directory path
+
 # app
 
 ## play mp4
