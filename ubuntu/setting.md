@@ -215,3 +215,10 @@ sudo snap install ruby --classic
 Virtual box のウィンドウリサイズに応じて自動的に仮想マシンをリサイズする - Qiita
 https://qiita.com/lion0506/items/36b9ce19724a32fbd1ac
 
+### Storageのサイズを変更する方法
+
+```
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" modifyhd [vdiのパス] --resize [MB]
+```
+
+
