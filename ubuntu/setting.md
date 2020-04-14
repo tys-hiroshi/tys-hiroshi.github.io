@@ -221,4 +221,8 @@ https://qiita.com/lion0506/items/36b9ce19724a32fbd1ac
 "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" modifyhd [vdiのパス] --resize [MB]
 ```
 
-
+```
+sudo apt-get update
+sudo apt-get install gparted
+sudo gparted
+```
