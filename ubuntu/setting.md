@@ -212,6 +212,13 @@ sudo snap install ruby --classic
 
 ## Virtualbox
 
+hyper-vを有効にするとVirtual Box 上のUbuntuの挙動がおかしくなった(容量が少なかったからかわからないが、Gpartedで拡張した)
+HyperVを無効にしても状況が改善されないので、一度再起動して、Virtual Boxをアンインストール。
+その後、再起動しVirtual Boxを（Defaultの設定のまま）インストールした。
+その後、仮想環境を使ったが、今の所特に問題はなさそう。
+
+### Virtual box のウィンドウリサイズ
+
 Virtual box のウィンドウリサイズに応じて自動的に仮想マシンをリサイズする - Qiita
 https://qiita.com/lion0506/items/36b9ce19724a32fbd1ac
 
@@ -226,3 +233,7 @@ sudo apt-get update
 sudo apt-get install gparted
 sudo gparted
 ```
+
+## app
+
+https://sicklylife.jp/ubuntu/2004/settings.html
