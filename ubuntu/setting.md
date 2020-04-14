@@ -237,3 +237,6 @@ sudo gparted
 ## app
 
 https://sicklylife.jp/ubuntu/2004/settings.html
+
+
+http://releases.ubuntu.com/20.04/?_ga=2.139916275.1176122378.1586859505-491720526.1585113064
