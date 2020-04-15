@@ -8,3 +8,5 @@ https://hon.jp/news/1.0/0/28667
 
 https://www.lib.shimane-u.ac.jp/new/2020040800017/
 
+
+https://github.blog/2020-04-14-github-is-now-free-for-teams/
