@@ -234,6 +234,16 @@ sudo apt-get install gparted
 sudo gparted
 ```
 
+### Windows FolderをMountする
+
+1. Windows上の任意の場所に共有フォルダを作成。(共有設定でRead/Writeを有効にする)
+
+2. VirtualBoxマネージャー→設定→共有フォルダ→共有フォルダを追加
+3. フォルダのパス→その他→作成した共有フォルダを指定、自動マウントにチェック。
+4. /mnt/windows にマウントされている
+
+※ Guest Additions CD が多分事前にインストールする必要がある
+
 ## app
 
 https://sicklylife.jp/ubuntu/2004/settings.html
