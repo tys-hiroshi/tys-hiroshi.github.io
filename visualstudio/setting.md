@@ -33,3 +33,31 @@ Userのタブで settings.json と検索して、J内に以下を入力する。
     "python.pythonPath": "{$ which python3 のパス}"
 }
 ```
+
+
+### テストがDebugできないとき
+
+出力 ＞ 出力元：テストを指定したときのログが以下の様になっているとき。
+
+```
+ログのレベルは、情報 (既定) に設定されています。
+テスト データ ストアが 0.029 秒で開きました。
+---------- 要求されたテストの実行についてテスト検出を開始しています ----------
+Microsoft.VisualStudio.TestPlatform.ObjectModel.TestPlatformException: Testhost process exited with error: It was not possible to find any compatible framework version
+The framework 'Microsoft.NETCore.App', version '2.2.0' was not found.
+  - The following frameworks were found:
+      3.1.3 at [C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App]
+You can resolve the problem by installing the specified framework and/or SDK.
+The specified framework can be found at:
+  - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=2.2.0&arch=x86&rid=win10-x86
+. Please check the diagnostic logs for more information.
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyOperationManager.ThrowExceptionOnConnectionFailure(Int32 connTimeout)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyOperationManager.SetupChannel(IEnumerable`1 sources, String runSettings)
+   at Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Client.ProxyDiscoveryManager.DiscoverTests(DiscoveryCriteria discoveryCriteria, ITestDiscoveryEventsHandler2 eventHandler)
+========== テスト検出が中止されました: 535 ミリ秒 に 0 件のテストが見つかりました ==========
+```
+
+テストProjectの プロパティから ビルド ＞ 対象プラットフォームをx64にする。
+
+https://stackoverflow.com/questions/59246822/after-updated-visual-studio-2019-to-16-4-0-i-cant-run-tests-with-target-framewo
+
