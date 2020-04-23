@@ -14,3 +14,7 @@ Microsoft.Testframework
 Microsoft.TestAdaptor
 を一度Nugetからアンインストール・インストールする。
 
+その２
+visual studio 2017では動かなかったが、
+visual studio 2019で動かしたらテストが動いた
+
