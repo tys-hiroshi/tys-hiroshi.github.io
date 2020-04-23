@@ -14,7 +14,15 @@ Microsoft.Testframework
 Microsoft.TestAdaptor
 を一度Nugetからアンインストール・インストールする。
 
-その２
+
+### その２
+
 visual studio 2017では動かなかったが、
 visual studio 2019で動かしたらテストが動いた
+
+
+### .NetCoreなら
+
+プロジェクトをx64 にしたら動いた
+これは環境が悪いのかも？
 
