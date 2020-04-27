@@ -15,3 +15,24 @@ https://www.faq.mizuhobank.co.jp/faq/show/68?back=front%2Fcategory%3Ashow&catego
 他行宛（電信）3万円以上 	660円
 
 https://www.mizuhobank.co.jp/rate_fee/fee_sonota.html
+
+イオン銀行
+
+https://faq.aeonbank.co.jp/faq_detail.html?id=76
+
+```
+●ATM（現金）による振込手数料
+＜イオン銀行口座宛＞
+5万円未満：220円（税込）
+5万円以上：440円（税込）
+
+＜他行口座宛＞
+5万円未満：440円（税込）
+5万円以上：660円（税込）
+```
+
+https://www.aeonbank.co.jp/mystage/#anch-01
+
+
+
+https://www.aeonbank.co.jp/atm/
