@@ -36,3 +36,5 @@ https://www.aeonbank.co.jp/mystage/#anch-01
 
 
 https://www.aeonbank.co.jp/atm/
+
+https://www.mizuhobank.co.jp/retail/products/mmc/tokuten/kaitei2019/index.html
