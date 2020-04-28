@@ -38,3 +38,9 @@ https://www.aeonbank.co.jp/mystage/#anch-01
 https://www.aeonbank.co.jp/atm/
 
 https://www.mizuhobank.co.jp/retail/products/mmc/tokuten/kaitei2019/index.html
+
+
+自動入金契約新規登録
+https://ib.aeonbank.co.jp/0040/B/B/B/E800/KBE81BN000B000.do
+
+みずほ → AEON
