@@ -1,5 +1,7 @@
 ?
 
+if aaa.B is null, then b is null
+
 ```
         [TestMethod]
         public void Test() 
