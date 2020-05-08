@@ -41,3 +41,16 @@ Current WinHTTP proxy settings:
 
     Direct access (no proxy server).
 ```
+
+### WinMergeでDiff ペインが表示されないとき
+
+ファイル比較ウインドウが表示されている状態で、
+[表示]メニュー → [ロケーションペイン]にチェックを入れてみるとどうでしょうか？
+
+これでうまくいかない場合は、WinMerge終了後、
+レジストリエディタregeditで
+
+HKEY_CURRENT_USER\SOFTWARE\Thingamahoochie\WinMerge
+
+のWinMergeをリネームすると初期状態になりますので
+ロケーションペインが表示されるようになると思います。
