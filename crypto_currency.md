@@ -16,3 +16,8 @@ https://coinpost.jp/?p=111080
 ## law
 
 https://www.fsa.go.jp/common/diet/198/02/setsumei.pdf
+
+
+Mining pool
+
+https://miningpoolstats.stream
