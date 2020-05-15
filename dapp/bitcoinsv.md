@@ -113,3 +113,32 @@ https://github.com/richardkiss/pycoin/blob/de89fa4ffb5b7eb518c9ab2859c9d767f6b3e
 ## bulk transaction
 
 https://developers.whatsonchain.com/#bulk-transaction-details
+
+
+
+## Generate a Bitcoinsv address
+
+```
+npm install --save bsv
+```
+
+testnet address
+
+```
+const bsv = require('bsv')
+const privateKey = bsv.PrivateKey.fromRandom('testnet')
+console.log(privateKey.toWIF())
+const address = bsv.Address.fromPrivateKey(privateKey, 'testnet')
+console.log(address.toString())
+```
+
+
+mainnet address
+
+```
+const bsv = require('bsv')
+const privateKey = bsv.PrivateKey.fromRandom()
+console.log(privateKey.toWIF())
+const address = bsv.Address.fromPrivateKey(privateKey)
+console.log(address.toString())
+```
