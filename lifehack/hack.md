@@ -168,3 +168,7 @@ https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%8
 
 収納： 高さ：50cm, 幅：50cm, 奥行き:46cm
 レンジ：W：38cm, D:28
+
+
+casy
+
