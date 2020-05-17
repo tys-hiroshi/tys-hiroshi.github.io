@@ -162,3 +162,9 @@ https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%8
 スタンフォード監獄実験
 
 https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93
+
+
+### Kitchen
+
+収納： 高さ：50cm, 幅：50cm, 奥行き:46cm
+レンジ：W：38cm, D:28
