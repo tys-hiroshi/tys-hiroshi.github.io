@@ -152,3 +152,13 @@ Googleカレンダーに予定を入れて、その時間にスマホ・スマ�
 土日に使えないのは厳しいので、できる限り節約する。そもそもYoutubeなどを高画質でみない設定にする
 
 google chrome cast でyoutubeを見るときに高画質になっているぽいので、軽画質に設定する方法はあるか？
+
+### thinking
+
+サードウェイブ実験
+
+https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E5%AE%9F%E9%A8%93
+
+スタンフォード監獄実験
+
+https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93
