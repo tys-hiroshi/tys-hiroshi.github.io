@@ -9,3 +9,9 @@ https://kg-update.net/running_avd3/
 
 Driverを更新する。
 
+```
+sudo apt install qemu-kvm
+sudo adduser $USER kvm
+```
+
+したあとは再起動してください。
