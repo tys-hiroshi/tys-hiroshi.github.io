@@ -9,6 +9,13 @@ https://kg-update.net/running_avd3/
 
 Driverを更新する。
 
+
+
+```
+cd apps/android-studio-ide-192.6392135-linux/android-studio/bin/
+./studio.sh
+```
+
 ```
 sudo apt install qemu-kvm
 sudo adduser $USER kvm
