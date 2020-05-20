@@ -22,3 +22,11 @@ sudo adduser $USER kvm
 ```
 
 したあとは再起動してください。
+
+Layout Editor の表示
+
+app > res > layout > activity_main.xml 
+
+https://qiita.com/k-ysd/items/f428072e9b5db9285cf3
+
+
