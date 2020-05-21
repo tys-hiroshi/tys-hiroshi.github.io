@@ -142,3 +142,7 @@ console.log(privateKey.toWIF())
 const address = bsv.Address.fromPrivateKey(privateKey)
 console.log(address.toString())
 ```
+
+QR
+
+https://www.qr-code-generator.com/solutions/bitcoin-qr-code/
