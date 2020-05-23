@@ -173,3 +173,39 @@ https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%8
 casy
 ■Casy 【1000円割引】特別クーポン
 http://casy.co.jp/invite/Makonari
+
+
+## メガネ 眼鏡 めがね
+
+メガネスーパー
+
+https://www.meganesuper.net/shop/%E3%81%8A%E6%89%8B%E6%8C%81%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%BA%E4%BA%A4%E6%8F%9B/c/c4010/
+
+15,300円 〜
+
+
+JINS （店舗でやってくれる？）
+
+5000円 〜
+
+眼鏡市場
+
+2枚1組¥11,880円(税込)〜
+
+Alook
+
+8000円 〜
+
+OWNDAYS（オンデーズ）
+
+一律7,000円。遠近両用一律10,000円。
+
+和真
+「価格は10,800円～」とのこと。「詳細をお教えください」と問い合わせたのですが価格はこの提示のみ。
+
+
+https://www.glafas.com/erabikata/low_priced/lense_replace.html
+
+
+http://www.kosodatedou.com/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%A7%E3%81%86%E3%81%BE%E3%81%8F%E7%94%9F%E3%81%8D%E6%8A%9C%E3%81%8D%E3%81%9F%E3%81%84/glasses/
+
