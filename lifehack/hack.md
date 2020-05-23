@@ -209,3 +209,7 @@ https://www.glafas.com/erabikata/low_priced/lense_replace.html
 
 http://www.kosodatedou.com/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%A7%E3%81%86%E3%81%BE%E3%81%8F%E7%94%9F%E3%81%8D%E6%8A%9C%E3%81%8D%E3%81%9F%E3%81%84/glasses/
 
+
+## 参考書・赤本、予備校テキストなど受験・勉強・学習に関する書籍や教材を送料無料で買取
+
+https://www.booksdream.com/?a8=UnOGgnV4Rado-D-gP0jc4y-LsOwTjaqaF0jc5yj5nSe4RaO1oaW-oymnFywcmcWqiS2yYbOdinOGZs00000014429001
