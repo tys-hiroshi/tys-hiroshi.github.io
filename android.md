@@ -50,3 +50,8 @@ https://qiita.com/naotsune/items/8a45fb5436b50d3fef56
 
 
 https://qiita.com/naoi/items/8df1409ad48ad8f3c632  ← なんか古い？
+
+
+### ListView は古いからRecyclerView を
+
+https://qiita.com/fu_neko/items/722e0ab5f0f1255f87bf
