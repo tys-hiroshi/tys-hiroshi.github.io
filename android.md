@@ -64,5 +64,7 @@ Room を使用してローカル データベースにデータを保存する
 
 https://developer.android.com/training/data-storage/room?hl=ja
 
+https://github.com/arifnadeem7/mvvmcoroutinesandflow
+
 
 ### 例えば水没するなどしてAndroidが操作できないときに USBにつないでストレージのデータを取得できるか？
