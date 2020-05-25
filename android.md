@@ -60,5 +60,9 @@ https://qiita.com/fu_neko/items/722e0ab5f0f1255f87bf
 
 https://qiita.com/s_emoto/items/aeacf06111b9469176b1
 
+Room を使用してローカル データベースにデータを保存する
+
+https://developer.android.com/training/data-storage/room?hl=ja
+
 
 ### 例えば水没するなどしてAndroidが操作できないときに USBにつないでストレージのデータを取得できるか？
