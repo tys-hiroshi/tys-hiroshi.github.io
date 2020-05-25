@@ -66,5 +66,6 @@ https://developer.android.com/training/data-storage/room?hl=ja
 
 https://github.com/arifnadeem7/mvvmcoroutinesandflow
 
+package を作るとき、java > com.hblockth.dapp で 右クリック して、New > package
 
 ### 例えば水没するなどしてAndroidが操作できないときに USBにつないでストレージのデータを取得できるか？
