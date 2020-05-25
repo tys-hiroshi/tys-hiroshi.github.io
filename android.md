@@ -74,3 +74,7 @@ package を作るとき、java > com.hblockth.dapp で 右クリック して、
 
 https://qiita.com/takke/items/5cbc629f7f65d6a49906
 
+
+Cannot access database on the main thread since it may potentially lock the UI for a long period of time.
+
+https://qiita.com/toastkidjp/items/49ad3035a6df525ce040
