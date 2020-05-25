@@ -69,3 +69,8 @@ https://github.com/arifnadeem7/mvvmcoroutinesandflow
 package を作るとき、java > com.hblockth.dapp で 右クリック して、New > package
 
 ### 例えば水没するなどしてAndroidが操作できないときに USBにつないでストレージのデータを取得できるか？
+
+### Shortcut Key
+
+https://qiita.com/takke/items/5cbc629f7f65d6a49906
+
