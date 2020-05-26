@@ -92,3 +92,5 @@ DB のShcemaを変更したらMigrationする必要があるらしいがよく�
 
 
 Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number.
+
+https://www.it-swarm.dev/ja/android/%E9%83%A8%E5%B1%8B%E3%81%AF%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E6%95%B4%E5%90%88%E6%80%A7%E3%82%92%E6%A4%9C%E8%A8%BC%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93/831988913/
