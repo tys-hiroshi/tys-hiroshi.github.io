@@ -89,3 +89,6 @@ https://github.com/jianastrero/room-background-example/blob/b4d9505c489cfc406c74
 
 DB のShcemaを変更したらMigrationする必要があるらしいがよくわからないので
 アプリごとアンインストールしたら出来た。
+
+
+Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number.
