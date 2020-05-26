@@ -23,3 +23,8 @@
 
 
 ### 応答時間
+
+
+#### OWASP ASVS
+
+https://www.jpcert.or.jp/securecoding/OWASP_ASVS_20160623.pdf
