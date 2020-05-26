@@ -84,3 +84,8 @@ https://qiita.com/toastkidjp/items/49ad3035a6df525ce040
 room を使う例
 
 https://github.com/jianastrero/room-background-example/blob/b4d9505c489cfc406c74f613d18fbc372c5c7f48/app/src/main/java/com/jianastrero/roombackgroundexample/viewmodels/MainViewModel.kt
+
+
+
+DB のShcemaを変更したらMigrationする必要があるらしいがよくわからないので
+アプリごとアンインストールしたら出来た。
