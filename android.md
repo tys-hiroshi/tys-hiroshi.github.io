@@ -73,7 +73,9 @@ package を作るとき、java > com.hblockth.dapp で 右クリック して、
 ### Shortcut Key
 
 https://qiita.com/takke/items/5cbc629f7f65d6a49906
-
+定義箇所へ移動（Go to declaration）	Ctrl + B	
+戻る	Ctrl + Alt + ←	
+進む	Ctrl + Alt + →
 
 Cannot access database on the main thread since it may potentially lock the UI for a long period of time.
 
