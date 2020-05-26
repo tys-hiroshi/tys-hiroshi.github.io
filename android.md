@@ -80,3 +80,7 @@ https://qiita.com/takke/items/5cbc629f7f65d6a49906
 Cannot access database on the main thread since it may potentially lock the UI for a long period of time.
 
 https://qiita.com/toastkidjp/items/49ad3035a6df525ce040
+
+room を使う例
+
+https://github.com/jianastrero/room-background-example/blob/b4d9505c489cfc406c74f613d18fbc372c5c7f48/app/src/main/java/com/jianastrero/roombackgroundexample/viewmodels/MainViewModel.kt
