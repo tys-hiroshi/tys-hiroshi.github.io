@@ -110,5 +110,6 @@ activity_address_list.xml 内に
 
 が足りなかったから。
 
+## ListView でタップしたときになにかする
 
 https://qiita.com/YS-BETA/items/f54bed772d502c5c06f0
