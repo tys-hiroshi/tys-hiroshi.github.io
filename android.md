@@ -113,3 +113,6 @@ activity_address_list.xml 内に
 ## ListView でタップしたときになにかする
 
 https://qiita.com/YS-BETA/items/f54bed772d502c5c06f0
+
+
+https://github.com/rahul-evontech/RetrofitCRUD/blob/20442464b9c1adccc94256772785dcffa4c9b0eb/app/src/main/java/com/smartherd/retrofitjosn/viewModel/MainViewModel.kt
