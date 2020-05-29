@@ -1,3 +1,8 @@
+woc-explorer
+
+https://github.com/waqas64/woc-explorer/blob/master/app/api/coreApi.js
+
+
 http://online106.hatenablog.jp/entry/2020/02/13/205523
 
 ```
