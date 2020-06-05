@@ -22,6 +22,9 @@ capslock to left_control
 
 
 - CopyClip
+- simplenote
+- memory diag
+- skitch
 
 ## Setting
 
