@@ -11,6 +11,17 @@
 
 Windowsに慣れているなら「MS-IME」、Macに慣れているなら「ことえり」に統一する
 
+- Karabiner-Elements
+
+https://creative89.com/2017/05/27/how-to-use-windows-keyboard-on-mac/
+
+PCキーボードの無変換キー to 英数キー
+PCキーボードの変換キー to かなキー
+left_control to left_command
+capslock to left_control
+
+
+- CopyClip
 
 ## Setting
 
