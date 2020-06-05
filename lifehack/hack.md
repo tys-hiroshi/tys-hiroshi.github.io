@@ -188,6 +188,8 @@ JINS （店舗でやってくれる？）
 
 5000円 〜
 
+https://faq-jp.jins.com/jp/faq/glasses/faq_detail.html?category=&page=1&id=127
+
 眼鏡市場
 
 2枚1組¥11,880円(税込)〜
