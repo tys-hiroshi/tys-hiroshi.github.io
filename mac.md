@@ -31,3 +31,13 @@ capslock to left_control
 Scroll
 open Lanchpad with shortcut (Ctrl+L)
 Keyboard
+
+
+https://qiita.com/ohkawa/items/c84fcb1347dfb3a73c6d
+
+記号 | 読み方
+-- | --
+⌘ | command
+⌥ | option / alt
+⇧ | shift
+⌃ | control
