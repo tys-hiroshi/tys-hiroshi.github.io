@@ -26,6 +26,13 @@ capslock to left_control
 - memory diag
 - skitch
 
+- sourcetree
+
+https://qiita.com/suzutatsu/items/817f58cfb6e69f56d134
+
+- postman
+
+
 ## Setting
 
 Scroll
