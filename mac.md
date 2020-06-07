@@ -40,6 +40,8 @@ https://qiita.com/suzutatsu/items/817f58cfb6e69f56d134
 brew update
 ```
 
+https://gitup.co/
+
 
 ## Setting
 
