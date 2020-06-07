@@ -16,3 +16,8 @@ https://did2memo.net/2019/09/23/iphone-ios-13-safari-share-button-message-list/
 ## ショートカット
 
 https://time-space.kddi.com/mobile/20191120/2783
+
+
+## Storyboard
+
+https://techacademy.jp/magazine/1825
