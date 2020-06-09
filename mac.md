@@ -73,4 +73,8 @@ export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
+fink でmac にaptをInstallする方法
+
+https://qiita.com/taka_baya/items/c84e306f05e2513e4a67
+https://qiita.com/u4da3/items/4229702b4a8504290dd5
 
