@@ -86,7 +86,7 @@ brew tap heroku/brew && brew install heroku
 https://docs.brew.sh
 
 
-
+brew install wget
 
 fink でmac にaptをInstallする方法
 
