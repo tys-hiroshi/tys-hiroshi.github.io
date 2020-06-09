@@ -71,12 +71,20 @@ vi ~/.zshrc
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+➜  ~ brew --version
+Homebrew 2.3.0
+Homebrew/homebrew-core (git revision 69d13; last commit 2020-06-09)
 ```
 
+### heroku install
+
+```
 brew tap heroku/brew && brew install heroku
+```
 
 
 https://docs.brew.sh
+
 
 
 
