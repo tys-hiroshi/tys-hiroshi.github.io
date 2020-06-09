@@ -65,6 +65,12 @@ https://brew.sh/index_ja
 ```
 zsh: command not found: brew
 
+vi ~/.zshrc
+
+
+export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+
 
