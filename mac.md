@@ -58,3 +58,13 @@ https://qiita.com/ohkawa/items/c84fcb1347dfb3a73c6d
 ⌥ | option / alt
 ⇧ | shift
 ⌃ | control
+
+
+https://brew.sh/index_ja
+
+```
+zsh: command not found: brew
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
