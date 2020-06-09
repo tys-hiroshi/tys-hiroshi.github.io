@@ -76,6 +76,8 @@ export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 brew tap heroku/brew && brew install heroku
 
 
+https://docs.brew.sh
+
 
 
 fink でmac にaptをInstallする方法
