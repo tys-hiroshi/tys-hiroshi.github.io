@@ -93,3 +93,8 @@ fink でmac にaptをInstallする方法
 https://qiita.com/taka_baya/items/c84e306f05e2513e4a67
 https://qiita.com/u4da3/items/4229702b4a8504290dd5
 
+
+Terminalで実行中のコマンドを中止
+
+apple key + dot(.)
+
