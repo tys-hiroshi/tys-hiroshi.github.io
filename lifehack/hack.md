@@ -229,3 +229,14 @@ http://www.kosodatedou.com/%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%A7%E3%81%86%E3%81%B
 ## 参考書・赤本、予備校テキストなど受験・勉強・学習に関する書籍や教材を送料無料で買取
 
 https://www.booksdream.com/?a8=UnOGgnV4Rado-D-gP0jc4y-LsOwTjaqaF0jc5yj5nSe4RaO1oaW-oymnFywcmcWqiS2yYbOdinOGZs00000014429001
+
+
+
+https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days/transcript?language=ja
+
+小さいことから始めたほうが良い。
+
+> 最後にもうひとつ言いたいのは 小さな持続可能な変化であれば 続けられることをするなら それは身につくということです
+大きな並外れたチャレンジというのも悪くはありません きっと すごく楽しいことでしょう でも身につきません 私が30日間砂糖を断ったとき 31日目はこんな風でした 
+
+> 私が皆さんにお聞きしたいのは 「何を待っているの？」ということです 好むと好まざると 次の30日間は 過ぎていくのです そうであれば ずっとやりたかったことを 試しにやってみましょうよ 次の30日間で 
