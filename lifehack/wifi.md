@@ -15,3 +15,4 @@ https://support.broad-isp.jp/member/login.php
 
 https://zeus-wifi.jp/
 
+→解約するときは箱などすべて返却が必要で、賠償金が１８０００円発生する
