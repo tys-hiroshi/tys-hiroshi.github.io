@@ -6,6 +6,8 @@ https://wimax-broad.jp/
 
 また、その他に手続きは必要なのでしょうか？
 
+→返却は必要ない
+
 https://support.broad-isp.jp/member/login.php
 
 
