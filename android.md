@@ -121,3 +121,7 @@ https://github.com/rahul-evontech/RetrofitCRUD/blob/20442464b9c1adccc94256772785
 Kotlin Coroutines
 
 https://qiita.com/kumamotone/items/8972dc5732a48c90f0dd
+
+https://techacademy.jp/magazine/2433
+
+[開発者向けオプション]で、開発者オプションをONにし、「USBデバッグ」のチェックボックスにチェックをします。
