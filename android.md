@@ -125,3 +125,8 @@ https://qiita.com/kumamotone/items/8972dc5732a48c90f0dd
 https://techacademy.jp/magazine/2433
 
 [開発者向けオプション]で、開発者オプションをONにし、「USBデバッグ」のチェックボックスにチェックをします。
+
+
+Androidアプリを公開する
+
+https://developer.android.com/distribute/console?hl=ja
