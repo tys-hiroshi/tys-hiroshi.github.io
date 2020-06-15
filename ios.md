@@ -21,3 +21,11 @@ https://time-space.kddi.com/mobile/20191120/2783
 ## Storyboard
 
 https://techacademy.jp/magazine/1825
+
+iPhoneをつないでXcodeでDebugのTargetとして、実行する。
+※事前にSigninが必要
+Targets>General>Signing>Team
+
+信頼されていないデベロッパと表示されたら。
+
+https://qiita.com/nonkapibara/items/d14c796ca69c8a4e58d2
