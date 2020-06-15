@@ -30,3 +30,5 @@ Targets>General>Signing>Team
 「設定」-「一般」-「デバイス管理」
 
 https://qiita.com/nonkapibara/items/d14c796ca69c8a4e58d2
+
+https://qiita.com/y-some/items/200db9ac37150effc8ed
