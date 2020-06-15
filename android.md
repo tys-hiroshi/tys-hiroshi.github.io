@@ -130,3 +130,5 @@ https://techacademy.jp/magazine/2433
 Androidアプリを公開する
 
 https://developer.android.com/distribute/console?hl=ja
+
+https://backapp.co.jp/blog/11725/
