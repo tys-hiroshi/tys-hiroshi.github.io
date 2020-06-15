@@ -27,5 +27,6 @@ iPhoneをつないでXcodeでDebugのTargetとして、実行する。
 Targets>General>Signing>Team
 
 信頼されていないデベロッパと表示されたら。
+「設定」-「一般」-「デバイス管理」
 
 https://qiita.com/nonkapibara/items/d14c796ca69c8a4e58d2
