@@ -32,3 +32,17 @@ Targets>General>Signing>Team
 https://qiita.com/nonkapibara/items/d14c796ca69c8a4e58d2
 
 https://qiita.com/y-some/items/200db9ac37150effc8ed
+
+
+https://developer.apple.com/swift/resources/
+
+https://tsuchikazu.net/swift_sample_iphone_application/
+
+Main.storyboardが出ません
+
+https://ios-app.zendesk.com/hc/ja/articles/360036958674-Main-storyboard%E3%81%8C%E5%87%BA%E3%81%BE%E3%81%9B%E3%82%93
+
+
+https://creatorhiro.com/archives/1029
+
+
