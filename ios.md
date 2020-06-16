@@ -49,3 +49,9 @@ https://creatorhiro.com/archives/1029
 
 https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
+
+Editor > Assistant
+
+
+Control-drag from the text field on your canvas to the code display in the editor on the right, stopping the drag at the line below the comment you just added in ViewController.swift.
+
