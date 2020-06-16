@@ -22,3 +22,16 @@ if aaa.B is null, then b is null
             }
         }
 ```
+
+
+Can I use Task.Delay as a timer?
+https://stackoverflow.com/questions/42219885/can-i-use-task-delay-as-a-timer/42219948
+
+use System.Reactive
+
+```
+IDisposable subscription =
+    Observable
+        .Interval(TimeSpan.FromSeconds(1.0))
+        .Subscribe(x => execute());
+```
