@@ -98,3 +98,6 @@ Terminalで実行中のコマンドを中止
 
 apple key + dot(.)
 
+## Windows からリモートする
+
+http://tenten0213.hatenablog.com/entry/2016/11/29/211656
