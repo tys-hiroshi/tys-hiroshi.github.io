@@ -21,3 +21,7 @@ https://www.amazon.co.jp/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A%E8%AB%96%E5%85%A5%
 楕円曲線と保型形式
 
 https://www.amazon.co.jp/%E6%A5%95%E5%86%86%E6%9B%B2%E7%B7%9A%E3%81%A8%E4%BF%9D%E5%9E%8B%E5%BD%A2%E5%BC%8F-N-%E3%82%B3%E3%83%96%E3%83%AA%E3%83%83%E3%83%84/dp/462106343X/ref=pd_bxgy_img_2/356-5134839-3890922?_encoding=UTF8&pd_rd_i=462106343X&pd_rd_r=7ed7dfd9-bd49-41af-b3b1-11a676ea3cf2&pd_rd_w=ICZQD&pd_rd_wg=nxATY&pf_rd_p=f9b7301a-70fe-4140-bc13-8df64a58b673&pf_rd_r=3CNCV3YB6NB280Y8TW02&psc=1&refRID=3CNCV3YB6NB280Y8TW02
+
+## 排水口の蓋
+
+8〜9cm × 8〜９cm
