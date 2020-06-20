@@ -26,7 +26,7 @@ capslock to left_control
 - memory diag
 - skitch
 
-- sourcetree
+- github desktop
 
 https://qiita.com/suzutatsu/items/817f58cfb6e69f56d134
 
@@ -119,3 +119,19 @@ sudo pmset -a disablesleep 1
 ```
 
 値を 1 に設定すると、すべてのスリープ機能は無効化されます。また、Apple メニューの「スリープ」項目が、淡色表示 (「グレイ表示」) されます。
+
+
+
+「コンピュータの設定」ボタンからポップアップで出てきた選択肢の両方にチェックを入れ、パスワードを入力
+
+
+
+## finder でファイルのPath をコピーする
+
+https://aprico-media.com/posts/1578
+
+ファイルを右クリックする。
+その状態で「Optionキー」を押しましょう。すると、「○○をコピー」というメニューが「○○のパス名をコピー」に変わります。
+
+この機能を選択することで、ファイル・フォルダまでのパスのコピーが出来ます。
+
