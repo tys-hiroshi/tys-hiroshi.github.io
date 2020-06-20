@@ -135,3 +135,19 @@ https://aprico-media.com/posts/1578
 
 この機能を選択することで、ファイル・フォルダまでのパスのコピーが出来ます。
 
+
+https://support.apple.com/ja-jp/guide/terminal/apdc52250ee-4659-4751-9a3a-8b7988150530/mac
+
+圧縮
+
+tar -czvf
+
+解凍
+
+tar -xvf
+
+## Macを使ってiPhoneのバックアップを作成する
+
+https://support.apple.com/ja-jp/guide/iphone/iph3ecf67d29/ios
+
+
