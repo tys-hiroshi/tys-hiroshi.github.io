@@ -150,4 +150,9 @@ tar -xvf
 
 https://support.apple.com/ja-jp/guide/iphone/iph3ecf67d29/ios
 
+## command code が使えないとき
+
+Visual Studio Codeを起動
+コマンドパレットを開く(cmd+shift+p)
+"Shell Command: Install 'code' command in PATH"を選択
 
