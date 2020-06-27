@@ -156,3 +156,27 @@ Visual Studio Codeを起動
 コマンドパレットを開く(cmd+shift+p)
 "Shell Command: Install 'code' command in PATH"を選択
 
+https://qiita.com/sayama0402/items/453595d0d8f54b645753
+
+```
+emacs ~/.zshrc
+```
+
+```
+function code {
+    if [[ $# = 0 ]]
+    then
+        open -a "Visual Studio Code"
+    else
+        local argPath="$1"
+        [[ $1 = /* ]] && argPath="$1" || argPath="$PWD/${1#./}"
+        open -a "Visual Studio Code" "$argPath"
+    fi
+}
+```
+
+```
+source ~/.zshrc
+```
+
+
