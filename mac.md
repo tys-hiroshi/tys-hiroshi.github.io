@@ -180,3 +180,16 @@ source ~/.zshrc
 ```
 
 
+dotfileを見えるようにする
+
+```
+defaults write com.apple.finder AppleShowAllFiles -boolean true
+killall Finder
+```
+
+元に戻す
+
+```
+defaults delete com.apple.finder AppleShowAllFiles
+killall Finder
+```
