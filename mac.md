@@ -193,3 +193,10 @@ killall Finder
 defaults delete com.apple.finder AppleShowAllFiles
 killall Finder
 ```
+
+finder to terminal
+
+システム環境設定 > キーボード > ショートカット > サービス > フォルダに新規ターミナルタブ
+
+https://qiita.com/yamagh/items/02608e97be22c85cefaa
+
