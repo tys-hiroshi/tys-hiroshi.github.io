@@ -200,3 +200,15 @@ finder to terminal
 
 https://qiita.com/yamagh/items/02608e97be22c85cefaa
 
+## LifeTime
+
+
+https://support.apple.com/ja-jp/HT201624
+
+```
+iPhone、iPad、iPod、Mac 製品をお持ちのお客様は、製品の販売中止後 5 年間 (法で定められている場合はそれ以上) は Apple や Apple サービスプロバイダから修理サービスや部品を入手できます。Apple は、特定の技術的なオブソリート製品のサポートをすでに終了しています。
+
+ビンテージ製品とは、販売中止から 5 年以上 7 年未満の製品です。Mac、iPhone、iPad、iPod、Apple TV のビンテージ製品については、Apple Store 直営店を含む Apple のサービスプロバイダからハードウェアの修理サービスを引き続き受けることができますが、在庫状況や、法律の定めるところによります。
+```
+
+https://appleshinja.com/mac-lifetime
