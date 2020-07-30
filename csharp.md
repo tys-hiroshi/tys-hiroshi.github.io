@@ -35,3 +35,28 @@ IDisposable subscription =
         .Interval(TimeSpan.FromSeconds(1.0))
         .Subscribe(x => execute());
 ```
+
+### Linq
+
+#### for文でSQLを発行するのではなく、Whereに条件を不定数付けてSQLを実行する場合
+
+https://tech.blog.aerie.jp/entry/2015/09/25/103325
+
+```
+// 検索条件を動的に生成する
+var orExList = new List<Expression<Func<Hoge, bool>>>();
+CreateExpression(ref orExList, targetList)
+var target = _db.Set<Hoge>()
+    .Where(ExpressionCombiner.OrElse(orExList))
+    .Select(a => a);
+```
+
+```
+internal static void CreateExpression(ref List<Expression<Func<Hoge, bool>>> orTargetExpression, string[] targetList)
+{
+    foreach(string targetItem in targetList)
+    {
+        orTargetExpression.Add(x => x.TargetItem == targetItem);
+    }
+}
+```
