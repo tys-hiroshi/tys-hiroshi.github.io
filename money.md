@@ -44,3 +44,9 @@ https://www.mizuhobank.co.jp/retail/products/mmc/tokuten/kaitei2019/index.html
 https://ib.aeonbank.co.jp/0040/B/B/B/E800/KBE81BN000B000.do
 
 みずほ → AEON
+
+
+### amazon
+
+keepa
+
