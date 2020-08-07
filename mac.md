@@ -206,6 +206,10 @@ Defaultで貼り付けると装飾されてうざいので、Plain Text で貼�
 
 https://www.lifehacker.jp/2016/08/160813_textedit_plaintxt.html
 
+```
+defaults write com.apple.TextEdit RichText -int 0
+```
+
 ## LifeTime
 
 
