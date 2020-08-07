@@ -200,6 +200,12 @@ finder to terminal
 
 https://qiita.com/yamagh/items/02608e97be22c85cefaa
 
+## TextEdit
+
+Defaultで貼り付けると装飾されてうざいので、Plain Text で貼り付ける
+
+https://www.lifehacker.jp/2016/08/160813_textedit_plaintxt.html
+
 ## LifeTime
 
 
