@@ -42,6 +42,19 @@ brew update
 
 https://gitup.co/
 
+## screen capture
+
+
+ディスプレイ画面のスクリーンショットを撮影
+
+Command + Shift + 3
+
+ディスプレイ画面の一部のスクリーンショットを撮影
+
+Command + Shift + 4
+
+Command + Shift + 5
+
 
 ## Setting
 
