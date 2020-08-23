@@ -234,3 +234,11 @@ https://support.apple.com/ja-jp/HT201624
 
 
 https://appleshinja.com/mac-lifetime
+
+DVD Copy
+
+```
+diskutil list
+dvdbackup -n MY_VIDEO -i /dev/disk3 -M -o ./
+cat VTS_0*.VOB > movie.mpg
+```
