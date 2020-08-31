@@ -49,6 +49,10 @@ https://support.broad-isp.jp/member/cancel_flow.php?type=wimax
 
 http://support.broad-isp.jp/wimax/
 
+
+https://network.mobile.rakuten.co.jp/support/revise/?l-id=inquiry_ecare_web_faq
+
+
 GMO とくとくBB
 
 キャッシュバックには11ヶ月目の口座登録メールで口座を登録する。
