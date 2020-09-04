@@ -60,3 +60,35 @@ GMO とくとくBB
 https://gmobb.jp/wimax/?btn_id=top_wm2_1312_brA
 
 https://internet-kyokasho.com/broad-wimax-2/
+
+
+## rakuten unlimit
+
+
+
+ASUS / ZenFone 5Q (ZC600KL)
+ASUS / ZenFone 4 (ZE554KL)
+ 2020.05.28
+ ASUS (Zenfone/ZenPad)  ASUS LINK OK Part11報告 VoLTE OK ZC600KL ZenFone ZenFone 5Q お役立ち情報 テザリングOK
+92非通知さん2020/04/27(月) 21:27:26.98ID:JMnVGTx+0
+【使用端末（キャリア・SIMフリーか否か）】Zenfone5Q ZC600KL(SIMフリー国内版)　Firmwareバージョン JP-14.0400.1803.045 2018/06/05
+【OSバージョン】 android7.1.1
+【エリア】楽天エリア
+【APN設定】手動
+【SIMアクティベート】〇
+【楽天Linkアクティベート】〇
+【Link通話】〇
+【VoLTE】×
+【SMS】〇
+【データ通信】〇
+【テザリング】〇
+【LTE only設定】済
+【備考】 他に注意点があったら書いてね
+(1) >>2　の(公式APN)と[IMS APN]を設定します
+　　IMS APN設定のMCCとMNCを指定なしにできないのでデフォルトのMCC440、MNC11にしました。IMS APNを設定しても画面から消えます
+(2)　標準電話アプリで*#*#4636#*#*を押して、デバイス情報→優先ネットワークの種類を設定を「LTE only」に変更します
+(3)　機内モードONしてからOFFします
+　　 再起動すると元の設定に戻るので、再起動しなくて機内モードON→OFFするのがコツです
+(4)　(2)の「LTE only」を設定した画面の右上：から「データ接続を有効にする」をタップします
+　　 30分ぐらい放置すると成功しました
+　　 再起動すると(2)からの設定をやり直す必要があります
