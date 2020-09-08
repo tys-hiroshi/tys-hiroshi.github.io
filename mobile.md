@@ -65,7 +65,7 @@ https://internet-kyokasho.com/broad-wimax-2/
 ## rakuten unlimit
 
 
-
+```
 ASUS / ZenFone 5Q (ZC600KL)
 ASUS / ZenFone 4 (ZE554KL)
  2020.05.28
@@ -92,6 +92,7 @@ ASUS / ZenFone 4 (ZE554KL)
 (4)　(2)の「LTE only」を設定した画面の右上：から「データ接続を有効にする」をタップします
 　　 30分ぐらい放置すると成功しました
 　　 再起動すると(2)からの設定をやり直す必要があります
+```
 
 https://rakuten-unlimit.jp/asus-zenfone-5q-zc600kl/
 
