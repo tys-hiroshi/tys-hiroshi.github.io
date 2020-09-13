@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=d0yGdNEWdn0
 
+https://ja.verbling.com/articles/post/how-to-learn-any-language-in-six-months-552ee4b35afee0982a1a82ff#:~:text=Any%20adult%20can%20learn%20a%20second%20language%20in%206%20months&text=He%20reached%20conversational%20fluency%20in,like%20a%20Chinese%20native%20speaker.&text=His%20main%20conclusion%3A%20That%20anyone,a%20language%20in%206%20months.
+
 ## 2 things that really don’t matter
 
 1.talent
