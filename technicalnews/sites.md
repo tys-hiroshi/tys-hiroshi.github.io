@@ -27,3 +27,6 @@ Google Trends
 
 https://trends.google.com/trends/?geo=US
 
+
+app-service-announcements
+https://github.com/Azure/app-service-announcements/issues
