@@ -33,7 +33,7 @@ https://www.courts.go.jp/tokyo/saibanin/kaiteikijitsu/index.html
 
 https://www.courts.go.jp/app/botyokoufu_jp/list?id=15
 
-### 当日
+### 当日（基本平日）
 
 １.東京地方裁判所本庁は新橋駅か有楽町駅で降り、徒歩で15〜20分くらいでつける距離にある。
 2.傍聴券が必要な裁判は見たことがないので詳しくはわからないが、傍聴券を取得するために指定の時間までに所定の場所に行く必要がある
@@ -41,3 +41,16 @@ https://www.courts.go.jp/app/botyokoufu_jp/list?id=15
 4.北と南に分かれておりエレベータが1〜8階と上位階に止まるエレベータに別れていて、どれに乗るかちゃんと見ること
 5.お手洗いはエレベータの奥にある
 6.法廷では上に記載の「傍聴で気をつけること」を守ること
+
+
+### Reference
+
+【日程・服装・時間は？】初めての裁判傍聴で知るべき９つのポイント
+
+https://kame-reon.hatenablog.com/entry/trial-hearing
+
+裁判の内容をインターネットで公開することは許されるか？
+→傍聴内容を書くのはやめよう
+
+http://net-aegis.com/blog/385
+
