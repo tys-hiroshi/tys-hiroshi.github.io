@@ -4,3 +4,8 @@ https://qiita.com/kazurayam/items/aece5d314f84893a0a14#%E8%87%AA%E5%8B%95%E5%8C%
 
 
 自動化テストを開発する環境を簡単・確実に構築できる
+
+
+テストを自動化するのをやめ、自動テストを作ろう
+
+https://speakerdeck.com/tsuemura/tesutowozi-dong-hua-surufalsewoyame-zi-dong-tesutowozuo-rou?slide=30
