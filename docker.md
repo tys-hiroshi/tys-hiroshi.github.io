@@ -19,6 +19,12 @@ docker stop [container id]
 
 ## docker command
 
+connect docker component
+
+```
+docker-compose up --build
+```
+
 ```
 docker tag [image name]:[tag name] [docker user name]/[image name]:[tag name]
 ```
