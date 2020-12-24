@@ -22,7 +22,7 @@ docker stop [container id]
 connect docker component
 
 ```
-docker-compose up --build
+docker-compose up -d --build
 ```
 
 ```
