@@ -29,6 +29,25 @@ docker-compose up -d --build
 docker tag [image name]:[tag name] [docker user name]/[image name]:[tag name]
 ```
 
+process check
+
+```
+docker ps -a
+```
+
+docker stop
+
+```
+docker stop [image id]
+```
+
+remove docker image
+
+```
+docker rmi [image id]
+```
+
+
 ```
 docker push [image name]:[tag name]
 ```
