@@ -122,6 +122,10 @@ cp [appname].desktop ~/Desktop
 
 http://91stardust-atelier.hatenablog.com/entry/2016/11/17/015854
 
+Ubuntu 2004 でデスクトップからdesktopファイルが起動しない
+
+https://www.it-swarm-ja.tech/ja/.desktop/ubuntu-2004-lts%E3%81%A7%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%81%8B%E3%82%89desktop%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%8C%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%AA%E3%81%84/997984570/
+
 
 ## 自動起動
 
