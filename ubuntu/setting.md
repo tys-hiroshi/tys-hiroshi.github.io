@@ -133,7 +133,15 @@ https://www.it-swarm-ja.tech/ja/.desktop/ubuntu-2004-lts%E3%81%A7%E3%83%87%E3%82
 gnome-session
 ```
 
-## ClipIt
+## Gpaste
+
+ソフトウェアUpdate から検索してInstallし、
+
+sudo apt install gnome-shell-extensions-gpaste
+
+した後にRestart OS。
+
+## ClipIt(expired)
 
 sudo apt install clipit
 
