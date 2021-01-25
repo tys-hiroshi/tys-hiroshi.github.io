@@ -54,3 +54,21 @@ HKEY_CURRENT_USER\SOFTWARE\Thingamahoochie\WinMerge
 
 のWinMergeをリネームすると初期状態になりますので
 ロケーションペインが表示されるようになると思います。
+
+
+https://answers.microsoft.com/en-us/windows/forum/windows_10-start-win_taskbar/how-to-increase-the-number-of-recent-files/2ec5e80a-c8f1-4e25-bd5e-4c98169a520e
+
+how to increase the number of application history
+
+```
+Click your Start Button, type regedit and hit Enter to open the Registry Editor
+
+Navigate to:
+HKEY_CURRENT_USER\Software\Microsoft\ Windows\CurrentVersion\Explorer\Advanced
+
+On the right-side, look for an entry named JumpListItems_Maximum.
+
+If there is no such entry, you need to create one by right-clicking on the empty area, clicking New, clicking DWORD (32-bit) Value, and name it as JumpListItems_Maximum
+
+Double click that DWORD and set its value to 20 or 30
+```
