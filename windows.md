@@ -58,7 +58,7 @@ HKEY_CURRENT_USER\SOFTWARE\Thingamahoochie\WinMerge
 
 https://answers.microsoft.com/en-us/windows/forum/windows_10-start-win_taskbar/how-to-increase-the-number-of-recent-files/2ec5e80a-c8f1-4e25-bd5e-4c98169a520e
 
-how to increase the number of application history
+## how to increase the number of application history
 
 ```
 Click your Start Button, type regedit and hit Enter to open the Registry Editor
