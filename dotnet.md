@@ -15,3 +15,19 @@ sessionState Element (ASP.NET Settings Schema)
 
 https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-2.0/h6bb9cz9(v=vs.80)?redirectedfrom=MSDN
 
+
+MultipleActiveResultSets
+https://docs.microsoft.com/ja-jp/dotnet/api/system.data.sqlclient.sqlconnectionstringbuilder.multipleactiveresultsets?view=dotnet-plat-ext-5.0
+
+Integrated Security
+
+IntegratedSecurity プロパティの値。値が指定されていない場合は false。
+
+https://docs.microsoft.com/ja-jp/dotnet/api/system.data.sqlclient.sqlconnectionstringbuilder.integratedsecurity?view=dotnet-plat-ext-5.0
+
+
+Database
+initial catalog
+
+の違い？
+
