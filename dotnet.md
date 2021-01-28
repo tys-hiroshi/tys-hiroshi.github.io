@@ -46,3 +46,18 @@ Persist Security Info=False の使用
 → Persist Security Info=False とするべき
 
 https://docs.microsoft.com/ja-jp/dotnet/framework/data/adonet/protecting-connection-information#use-persist-security-infofalse
+
+
+TLS 1.2 でないと通信できないとき
+
+TLS1.2のみ
+
+```
+ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+```
+
+追加する形式
+
+```
+ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3 | SecurityProtocolType.Tls | SecurityProtocolType.Tls11 |  SecurityProtocolType.Tls12;
+```
