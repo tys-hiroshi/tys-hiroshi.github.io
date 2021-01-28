@@ -28,3 +28,15 @@ https://docs.microsoft.com/ja-jp/dotnet/api/system.data.sqlclient.sqlconnections
 
 Database と initial catalog の違いはない。(どらちかでよい)
 
+
+IIS 上で親 Application の Web.config を子 Application の Web.config に継承させない方法
+
+"親Application"のWeb.config に継承させたくないSectionを以下で囲む
+
+```
+<location path="." inheritInChildApplications="false">
+</location>
+```
+
+http://emu717171.hatenablog.com/entry/2014/08/10/040204
+
