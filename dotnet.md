@@ -10,6 +10,7 @@ https://qiita.com/84zume/items/dce5c9b496665183f1a9
 
 > SQLServer	SQL Serverのデータベースでセッション状態を管理します。StateServerと同様のメリットがあります。
 
+## Web.config
 
 sessionState Element (ASP.NET Settings Schema)
 
@@ -40,3 +41,8 @@ IIS 上で親 Application の Web.config を子 Application の Web.config に�
 
 http://emu717171.hatenablog.com/entry/2014/08/10/040204
 
+
+Persist Security Info=False の使用
+→ Persist Security Info=False とするべき
+
+https://docs.microsoft.com/ja-jp/dotnet/framework/data/adonet/protecting-connection-information#use-persist-security-infofalse
