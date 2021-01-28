@@ -26,8 +26,5 @@ IntegratedSecurity プロパティの値。値が指定されていない場合�
 https://docs.microsoft.com/ja-jp/dotnet/api/system.data.sqlclient.sqlconnectionstringbuilder.integratedsecurity?view=dotnet-plat-ext-5.0
 
 
-Database
-initial catalog
-
-の違い？
+Database と initial catalog の違いはない。(どらちかでよい)
 
