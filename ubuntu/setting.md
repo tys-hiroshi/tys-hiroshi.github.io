@@ -12,9 +12,8 @@ https://www.kyoto-su.ac.jp/department/lf/gakushu/kyozai/prenom/prenom_table.html
 
 # Need Apps
 
-- clipit
+- clipit -> Gpaste
 - visual studio code
-- gitkraken
 - SoundConverter
 - bitwarden
 - smartgit
@@ -24,6 +23,8 @@ https://www.kyoto-su.ac.jp/department/lf/gakushu/kyozai/prenom/prenom_table.html
 - chrome
 - rhythmbox
 - mongodb
+
+~~gitkraken~~
 
 ## Path
 
