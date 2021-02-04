@@ -72,3 +72,26 @@ If there is no such entry, you need to create one by right-clicking on the empty
 
 Double click that DWORD and set its value to 20 or 30
 ```
+
+
+### context menu
+
+https://laboradian.com/add-item-to-context-menu/
+
+私はここで答えを見つけました:
+https://forum.videolan.org/viewtopic.php?t=82274
+
+関連する指示:
+
+> 私はここで答えを見つけました:
+> https://forum.videolan.org/viewtopic.php?t=82274
+> 
+> 関連する指示:
+> 
+> 
+> Regeditを開きます。 HKEY_CLASSES_ROOT \ Directory \ shellを見つけます。
+> このキーの下で、フォルダーのコンテキストメニューから削除する各VLCキーを見つけます。
+> (オプション)それぞれを右クリックして、エクスポートを選択します(念のため)。キーの名前に「-dir」を加えて、エクスポートされたregファイルを保存します。完全なレジストリパスではなくキー名のみを取得するには、名前が強調表示されているときに名前を変更する代わりに、最初に名前変更を選択してから、(エクスポートする前に)コピーを選択します。 [キー名のコピー]は、選択したキーだけではなく、フルパスを提供します。
+> キーを削除します。
+
+https://ja.ojit.com/so/contextmenu/322838
