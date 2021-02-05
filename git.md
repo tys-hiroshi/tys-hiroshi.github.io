@@ -28,3 +28,12 @@ When u can above, u can clone private repository.
 
 $ git clone git@github.com:tys-hiroshi/{repositoryname}.git
 
+
+### count code
+
+```
+$ git ls-files '*.js' '*.ts' '*.json' | xargs -n1 git --no-pager blame -w | wc -l
+
+$ git ls-files '*.ts' | xargs -n1 git --no-pager blame -w | wc -l
+```
+
