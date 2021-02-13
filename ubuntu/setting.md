@@ -278,3 +278,10 @@ https://golang.hateblo.jp/entry/ubuntu-keyboard-layout
 $ sudo dpkg-reconfigure keyboard-configuration
 ```
 
+```
+$ gnome-session-properties
+```
+
+Set JP keyboard on X startup
+
+setxkbmap jp
