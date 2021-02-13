@@ -268,3 +268,13 @@ http://releases.ubuntu.com/20.04/?_ga=2.139916275.1176122378.1586859505-49172052
 【Ubuntu】キーリングの解除のダイアログを出したくない
 
 https://www.softel.co.jp/blogs/tech/archives/4635
+
+
+### Keyboard layout
+
+https://golang.hateblo.jp/entry/ubuntu-keyboard-layout
+
+```
+$ sudo dpkg-reconfigure keyboard-configuration
+```
+
