@@ -95,3 +95,11 @@ https://forum.videolan.org/viewtopic.php?t=82274
 > キーを削除します。
 
 https://ja.ojit.com/so/contextmenu/322838
+
+
+【windows】タスクスケジューラ 一覧の取得コマンド
+https://qiita.com/sunmontue1006/items/fca3d99fcddc5e2d94db
+
+```
+schtasks /query /FO CSV > d:\tasklist.csv
+```
