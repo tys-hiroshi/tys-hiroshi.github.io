@@ -1,7 +1,16 @@
-https://forest.watch.impress.co.jp/docs/serial/yajiuma/1071179.html
+### Windowが画面のどこかへ行ってしまい操作できないとき
+
+1.移動するウィンドウをクリックしてアクティブにする。
+2.Alt ＋ Spaceを押す。
+3.M キーを押す
+4.ウィンドウを方向キーで移動
+
+https://snow-white.cocolog-nifty.com/first/2018/01/windows-10-85e1.html
 
 
 ### 仮想デスクトップを切り替え
+
+https://forest.watch.impress.co.jp/docs/serial/yajiuma/1071179.html
 
 ［Windows］＋［Ctrl］＋左右キー
 
