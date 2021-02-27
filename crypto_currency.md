@@ -14,6 +14,45 @@ https://github.com/smartcontractkit
 https://www.hyperledger.org/projects/avalon
 https://coinpost.jp/?p=111080
 
+## icon icx
+
+https://www.icondev.io/docs
+
+https://icon.foundation/contents/development/developer?lang=en
+
+https://github.com/icon-project
+
+
+## flow
+
+## zilliqa
+
+https://www.zilliqa.com/developers
+
+## fetch.ai
+
+## the graph
+
+https://thegraph.com/docs/network#infrastructure
+
+## CHZ
+
+## near protcol
+
+## elrond
+
+## elf aelf
+
+## compound
+
+## yearn.finance
+
+
+
+
+
+
+
 
 ## law
 
