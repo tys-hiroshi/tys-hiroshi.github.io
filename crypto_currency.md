@@ -29,11 +29,18 @@ https://github.com/icon-project
 
 https://www.zilliqa.com/developers
 
+https://github.com/Zilliqa/Zilliqa
+
+
 ## fetch.ai
 
 ## the graph
 
 https://thegraph.com/docs/network#infrastructure
+
+https://github.com/graphprotocol
+
+
 
 ## CHZ
 
