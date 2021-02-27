@@ -42,7 +42,9 @@ https://github.com/graphprotocol
 
 
 
-## CHZ
+## CHZ chiliz
+
+## algrand
 
 ## near protcol
 
@@ -55,7 +57,13 @@ https://github.com/graphprotocol
 ## yearn.finance
 
 
+## band protcol
 
+## solana
+
+## nem
+
+## ftx
 
 
 
