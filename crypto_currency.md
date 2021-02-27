@@ -27,6 +27,7 @@ https://github.com/icon-project
 
 https://docs.onflow.org/cadence/tutorial/02-hello-world
 
+https://coinchoice.net/what-is-new-blockchain-flow/
 
 ## zilliqa
 
