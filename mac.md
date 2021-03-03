@@ -20,6 +20,8 @@ PCキーボードの変換キー to かなキー
 left_control to left_command
 capslock to left_control
 
+https://beadored.com/mac-decorative-key-symbol/
+
 
 - CopyClip
 - simplenote
@@ -242,3 +244,7 @@ diskutil list
 dvdbackup -n MY_VIDEO -i /dev/disk3 -M -o ./
 cat VTS_0*.VOB > movie.mpg
 ```
+
+## Macで複数の操作スペースを操作する
+
+https://support.apple.com/ja-jp/guide/mac-help/mh14112/mac
