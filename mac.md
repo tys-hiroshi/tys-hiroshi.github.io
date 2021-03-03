@@ -23,6 +23,7 @@ capslock to left_control
 https://beadored.com/mac-decorative-key-symbol/
 
 
+
 - CopyClip
 - simplenote
 - memory diag
@@ -246,5 +247,12 @@ cat VTS_0*.VOB > movie.mpg
 ```
 
 ## Macで複数の操作スペースを操作する
+
+mission control
+
+Control + ↑
+Control + →
+
+https://support.apple.com/ja-jp/guide/mac-help/mh35798/11.0/mac/11.0
 
 https://support.apple.com/ja-jp/guide/mac-help/mh14112/mac
