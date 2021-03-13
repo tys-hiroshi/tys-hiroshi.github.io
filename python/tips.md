@@ -4,6 +4,12 @@ https://qiita.com/naomi7325/items/4eb1d2a40277361e898b
 
 # 並列処理
 
+
+Pythonにおける非同期処理: asyncio逆引きリファレンス
+
+https://qiita.com/icoxfog417/items/07cbf5110ca82629aca0
+
+
 シングルスレッドで並列処理
 
 https://dev.classmethod.jp/articles/python-asyncio/
