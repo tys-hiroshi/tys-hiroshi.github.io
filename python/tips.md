@@ -23,3 +23,8 @@ https://qiita.com/yukiB/items/203a6248c2d466b80d38
 
 https://qiita.com/kaitolucifer/items/3476158ba5bd8751e022
 
+
+
+https://www.haya-programming.com/entry/2020/05/01/075309
+
+https://heavywatal.github.io/python/concurrent.html
