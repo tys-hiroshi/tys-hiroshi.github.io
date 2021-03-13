@@ -33,3 +33,6 @@ https://heavywatal.github.io/python/concurrent.html
 https://minowalab.org/python_parallel_multiprocess_noblocking_lib/
 
 https://qiita.com/smatsumt/items/d8f290e40077a14210f2
+
+
+https://docs.python.org/3/library/asyncio-eventloop.html#executing-code-in-thread-or-process-pools
