@@ -31,3 +31,5 @@ https://www.haya-programming.com/entry/2020/05/01/075309
 https://heavywatal.github.io/python/concurrent.html
 
 https://minowalab.org/python_parallel_multiprocess_noblocking_lib/
+
+https://qiita.com/smatsumt/items/d8f290e40077a14210f2
